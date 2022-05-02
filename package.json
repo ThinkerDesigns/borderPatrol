@@ -1,0 +1,25 @@
+{
+    "name": "bp",
+    "version": "1.0.0",
+    "repository": "https://github.com/ThinkerDesigns/borderPatrol",
+    "description": "Border Patrol is a web proxy that is secure and can be used for many different websites.",
+    "main": "backend.js",
+    "scripts": {
+        "start": "node backend.js"
+    },
+    "keywords": [
+        "proxy",
+        "node.js",
+        "unblocker"
+    ],
+    "author": "Thinker Designs",
+    "license": "MIT",
+    "dependencies": {
+        "babel": "^6.23.0",
+        "corrosion": "^1.0.0",
+        "express": "^4.17.1",
+        "mime-types": "^2.1.27",
+        "node-fetch": "^3.2.0",
+        "ws": "^7.5.3"
+    }
+}
