@@ -1,0 +1,7 @@
+{
+  "name": "Border Patrol v1.0",
+  "description": "Border Patrol is a simple proxy which allows students and employees to bypass certain network restrictions to access sites that are blocked.",
+  "repository": "https://github.com/ThinkerDesigns/borderPatrol",
+  "logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/icon.png",
+  "keywords": ["borderpatrol", "corrosion", "thinkerdesigns", "node", "proxy", "unblocker", "webproxy", "games"]
+}
